@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'yekan';
+  src: url('font/Yekan.eot?#') format('eot'),  
+       url('font/Yekan.woff') format('woff'),
+       url('font/Yekan.ttf') format('truetype');
+  font-style:normal;
+  font-weight:normal;
+}
+@font-face {
+  font-family: 'nazanin';
+  src: url('font/Nazanin.eot?#') format('eot'),  
+       url('font/Nazanin.woff') format('woff'),
+       url('font/Nazanin.ttf') format('truetype');
+  font-style:normal;
+  font-weight:normal;
+}
